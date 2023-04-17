@@ -14,4 +14,5 @@ if pizza==True:
 - [x] Esperar
 - [ ] Prender el horno
 - [ ] Cocinarla
+- [ ] Disfrutar
 
