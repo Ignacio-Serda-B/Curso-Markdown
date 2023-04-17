@@ -11,7 +11,7 @@ if pizza==True:
   print("No se hizo la pizza")
 ```
 
-
+- [x] Tener ganas
 - [x] Amasar la masa
 - [x] Dejar leudar
 - [x] Esperar
